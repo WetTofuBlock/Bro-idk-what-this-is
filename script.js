@@ -1,1 +1,6 @@
-
+function appear() {
+  if isImgVisible {
+    
+  }
+}
+  
