@@ -1,7 +1,7 @@
-function appear() {
-    document.getElementById("egg").style.visibility = "visible"
+function hideElem() {
+  document.getElementById("egg").style.visibility = "hidden"; 
 }
 
-function disappear() {
-    document.getElementById("egg").style.visibility = "visible"
+function showElem() {
+  document.getElementById("egg").style.visibility = "visible"; 
 }
